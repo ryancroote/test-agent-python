@@ -1,0 +1,12 @@
+type Basic = record {
+    a : int;
+    b : int8;
+    c : int16;
+    d : int32;
+    e : int64;
+    f : int;
+    g : int8;
+    h : int16;
+    i : int32;
+    j : int64;
+};
